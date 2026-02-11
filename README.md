@@ -31,5 +31,4 @@ This repository contains the implementation and analysis for predicting whether 
 
 ## Author
 **Priyanka Khatri**  
-BSc Computer Science with AI  
-Birmingham City University
+
