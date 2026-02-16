@@ -84,4 +84,4 @@ For complete technical depth, refer to the accompanying report.
 ---
 
 **Author:** Priyanka Khatri  
-**Program:** BSc Computer Science with AI  
+
